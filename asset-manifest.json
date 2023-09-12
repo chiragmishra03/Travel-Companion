@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Travel-companion/static/css/main.7a9a59a0.css",
+    "main.js": "/Travel-companion/static/js/main.b62326d9.js",
+    "static/media/about.jpeg": "/Travel-companion/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/tour-1.jpeg": "/Travel-companion/static/media/tour-1.7249f01d0247bb61be6c.jpeg",
+    "static/media/tour-3.jpeg": "/Travel-companion/static/media/tour-3.be0128f4564f9fdeff41.jpeg",
+    "static/media/tour-2.jpeg": "/Travel-companion/static/media/tour-2.9b623865a74489b82b8a.jpeg",
+    "static/media/tour-4.jpeg": "/Travel-companion/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
+    "index.html": "/Travel-companion/index.html",
+    "main.7a9a59a0.css.map": "/Travel-companion/static/css/main.7a9a59a0.css.map",
+    "main.b62326d9.js.map": "/Travel-companion/static/js/main.b62326d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9a59a0.css",
+    "static/js/main.b62326d9.js"
+  ]
+}
