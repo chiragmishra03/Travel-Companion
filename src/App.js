@@ -9,7 +9,6 @@ import Feature from './Components/Feature';
 function App() {
   return (
     <>
-    <div>herohero</div>
     <Navbar />
     <Home/>
     <Service />
